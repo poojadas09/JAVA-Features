@@ -11,6 +11,6 @@ public class RemoveDuplicatefromString {
             }
         }
         System.out.println(inputString);
-        System.out.println(str.toString());
+        System.out.println(str);
     }
 }
